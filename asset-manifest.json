@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/customizeumbrella/static/css/main.b7c7221b.css",
+    "main.js": "/customizeumbrella/static/js/main.6e2dcdcc.js",
+    "index.html": "/customizeumbrella/index.html",
+    "main.b7c7221b.css.map": "/customizeumbrella/static/css/main.b7c7221b.css.map",
+    "main.6e2dcdcc.js.map": "/customizeumbrella/static/js/main.6e2dcdcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7c7221b.css",
+    "static/js/main.6e2dcdcc.js"
+  ]
+}
